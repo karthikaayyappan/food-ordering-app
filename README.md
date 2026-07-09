@@ -13,7 +13,7 @@ A modern food ordering mobile application designed using Figma.
 - Figma
 
 ## Figma Prototype
-Paste your Figma prototype link here.
+https://www.figma.com/proto/KhTCRZoxm9r5NpYpV2Bwvw/TasteNest-food-ordering-app?node-id=2049-909&t=49iW0OtjyPrIw2hd-1
 
 ## Author
 Karthika A
